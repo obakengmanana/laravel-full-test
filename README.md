@@ -84,7 +84,4 @@ Below is the list of features which we expect to see from your searchbar:
 
 We expect this test to take less than 4 hours, and expect well documented code to be provided for us to evaluate.
 
-## Submission
 
-Submission of this code test can be done by providing an Archive with your code emailed to [fj@bravedigital.com](mailto:fj@bravedigital.com) 
-or using a service like Google Drive or [WeTransfer](https://wetransfer.com/) to send the archive.
